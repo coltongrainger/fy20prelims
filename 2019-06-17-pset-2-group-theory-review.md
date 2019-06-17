@@ -1,5 +1,5 @@
 ---
-title: "Problem set 2: Group theory"
+title: "Problem set 2: Group theory review"
 author: Colton Grainger
 date: 2019-06-17
 revised:
@@ -7,7 +7,7 @@ revised:
 
 ## Definitions
 
-Know how to define each of the following $4$ concepts in about 5 minutes.
+Know how to define each of the following $4$ concepts in about 5 minutes. (See references in section 3.)
 
 1. 
     - group
@@ -89,7 +89,7 @@ Know how to define each of the following $4$ concepts in about 5 minutes.
 
 ## Main results
 
-Know how to make quick arguments in support of the following.
+Know how to make quick arguments in support of the following. (Again, see references in section 3.)
 
 1. Counting
 
@@ -140,8 +140,16 @@ Know how to make quick arguments in support of the following.
 
 ## Reading
 
-Here's the dropbox link: 
-source | page reference | title
+Be familiar with the following.
+
+- Tanaka and Conrad describe semi-direct products as split exact sequences. 
+
+- Rotman proves a few technical results in group theory using module theory.
+
+- For help with memorization, Peter has copied down relevant definitions and theorems from Dummit and Foote; his outline is included for the sake of completeness.
+
+
+source | pages | summary
 --- | --- | ---
 Rock, 2018 | 13 pages | outline of Dummit and Foote, ch. 1--6
 Tanaka, 2014 | 5 pages | semidirect products are split short exact sequences
